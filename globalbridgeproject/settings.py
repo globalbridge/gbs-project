@@ -92,9 +92,6 @@ WSGI_APPLICATION = 'globalbridgeproject.wsgi.application'
 
 import dj_database_url
 
-
-
-
 DATABASES = {
 
     'default': {
@@ -106,7 +103,7 @@ DATABASES = {
     'PASSWORD': 'safimatimohid//',
   },
 
-},
+}
 
 
 DATABASES['default'] = dj_database_url.config()
