@@ -13,7 +13,9 @@ def register_user(request):
     context = RequestContext(request)
     registered = False
     if request.method == 'POST':
-
+        print request.POST.get('first_name')
+        print request.POST.get('username')
+        print request.POST.get('lastname')
         user_form = MyRegistrationForm(data=request.POST)
         if user_form.is_valid():
             print "re"
