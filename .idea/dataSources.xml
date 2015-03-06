@@ -2,8 +2,10 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" hash="182373721">
     <data-source source="LOCAL" name="Django default" uuid="a0900175-7903-4302-8c60-c7ea029edaa8">
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:E:\gbs-projects\globalbridgeproject\db.sqlite3</jdbc-url>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/testheruko</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfd9dfcbdfccdfc3dfc7dfcbdfdedfc3dfc7dfc5dfc2dfc3dfcedf85df85</user-password>
       <libraries />
     </data-source>
   </component>

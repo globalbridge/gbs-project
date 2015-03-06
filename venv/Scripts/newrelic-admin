@@ -1,0 +1,5 @@
+#!E:\gbs-projects\Dev-Galt\venv\Scripts\python.exe
+
+import newrelic.admin
+
+newrelic.admin.main()
