@@ -15,15 +15,17 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates'),
 )
-ALLOWED_HOSTS = ['*']
 
-STATIC_URL = '/static/'
 STATIC_ROOT = 'staticfiles'
+STATIC_URL = '/static/'
+
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "static"),
+    os.path.join(BASE_DIR, 'static'),
 )
 
 
+
+ALLOWED_HOSTS = ['*']
 
 
 # Quick-start development settings - unsuitable for production
@@ -63,6 +65,14 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+)
+
+
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+#    'django.contrib.staticfiles.finders.DefaultStorageFinder',
 )
 
 ROOT_URLCONF = 'globalbridgeproject.urls'
