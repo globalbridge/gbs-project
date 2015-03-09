@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74498c6-281d-4e78-8d92-fc36b197ebaa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalbridgeproject/settings.py" afterPath="$PROJECT_DIR$/globalbridgeproject/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e74498c6-281d-4e78-8d92-fc36b197ebaa" name="Default" comment="" />
     <ignored path="globalbridgeproject.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globalbridgeproject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="0" selection-start="2610" selection-end="2610" vertical-scroll-proportion="0.89349115" vertical-offset="1551" max-vertical-offset="2261">
+            <state line="109" column="0" selection-start="2610" selection-end="2610" vertical-scroll-proportion="-12.08" vertical-offset="1551" max-vertical-offset="2261">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wercker.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wercker.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="31" selection-start="547" selection-end="547" vertical-scroll-proportion="0.59814817" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -128,6 +133,7 @@
         <option value="$PROJECT_DIR$/templates/gbs/register.html" />
         <option value="$PROJECT_DIR$/globalbridgeproject/urls.py" />
         <option value="$PROJECT_DIR$/globalbridgeproject/settings.py" />
+        <option value="$PROJECT_DIR$/wercker.yml" />
       </list>
     </option>
   </component>
@@ -291,7 +297,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Galt-March-5-2015" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -572,7 +578,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30153322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30153322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -599,13 +605,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gbs/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gbs/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="40" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1139">
@@ -702,7 +701,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/globalbridgeproject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="0" selection-start="2610" selection-end="2610" vertical-scroll-proportion="0.89349115" vertical-offset="1551" max-vertical-offset="2261">
+        <state line="109" column="0" selection-start="2610" selection-end="2610" vertical-scroll-proportion="-12.08" vertical-offset="1551" max-vertical-offset="2261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wercker.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="31" selection-start="547" selection-end="547" vertical-scroll-proportion="0.59814817" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
