@@ -3,9 +3,9 @@
   <component name="DataSourceManagerImpl" format="xml" hash="182373721">
     <data-source source="LOCAL" name="Django default" uuid="a0900175-7903-4302-8c60-c7ea029edaa8">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1/testheruko</jdbc-url>
-      <user-name>postgres</user-name>
-      <user-password>dfd9dfcbdfccdfc3dfc7dfcbdfdedfc3dfc7dfc5dfc2dfc3dfcedf85df85</user-password>
+      <jdbc-url>jdbc:postgresql://ec2-23-21-183-70.compute-1.amazonaws.com/diinqpl6gvmnn</jdbc-url>
+      <user-name>fhcepkyoehohmt</user-name>
+      <user-password>dfdbdfdedfe4dfc3dfc0dfd9dfe3dffedfc0dfc2dfe5dfc9df9adff8dff2dff3dfc0dff0dfdfdfecdfecdf99dfebdfeddfd9dfe6</user-password>
       <libraries />
     </data-source>
   </component>
